@@ -1,5 +1,5 @@
 # Assignment 0: Markdown
-## You hove to write markdown
+## You have to write markdown
 ### Some Math Equation
 
 $$
@@ -44,6 +44,7 @@ You can align text in the columns to the left, right, or center by adding a colo
 
 # License
 All code in this repository is copyright 2022 [MIT 6.S191 Introduction to Deep Learnig](http://introtodeeplearning.com/). All Rights Reserved.
+
 Licensed under the MIT License. You may not use this file except in complianse with the License. Use and/or modificationof this code outside of 6.S191 must reference:
 
 > © MIT 6.S191: Introduction Deep Learning <br> [http://introtodeeplearning.com](http://introtodeeplearning.com)
