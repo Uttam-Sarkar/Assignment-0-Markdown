@@ -22,3 +22,9 @@ $f_1(w)=\frac{\sigma^{2}}{2\pi},\omega\in[-\pi,\pi]$
    * first sub-item
       * first sub-sub-item
     * second sub-item
+
+![picture alt](pic/cat.png "Cat Pic")
+
+library(tidyverse)<br>
+library(mdsr)<br>
+SAT_2010 %>% gglot(aes(write,...density...)) + geom_histogram() + geom_density() + theme_minimal + labs(title = "SAT Writing Scores")
