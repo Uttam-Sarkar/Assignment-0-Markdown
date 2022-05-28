@@ -3,13 +3,17 @@
 ## You hove to write markdown
 ---
 ### Some Math Equation
-<center>
 
-First equation: $ Y=X \beta+\epsilon_y, \forall x $<br>
-Second equation: $ X=Z\gamma + \epsilon_x $
+$$
+\begin{align*}
+\ \text{First  equation: } & Y=X \beta+\epsilon_y, \forall x  
+\\\ \text{Second equation: } &  X=Z\gamma + \epsilon_x
+\end{align*}
+$$ 
 
-$f_1(w)=\frac{\sigma^{2}}{2\pi},\omega\in[-\pi,\pi]$
-</center>
+$$
+f_1(w)=\frac{\sigma^{2}}{2\pi},\omega\in[-\pi,\pi]
+$$
 
 1. First item a. first sub-item A) first sub-sub-item b. second sub-item
 2. Second item
