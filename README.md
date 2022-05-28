@@ -1,7 +1,5 @@
 # Assignment 0: Markdown
----
 ## You hove to write markdown
----
 ### Some Math Equation
 
 $$
@@ -34,7 +32,6 @@ library(mdsr)<br>
 SAT_2010 %>% gglot(aes(write,...density...)) + geom_histogram() + geom_density() + theme_minimal + labs(title = "SAT Writing Scores")
 
 # Table with alignment 
----
 You can align text in the columns to the left, right, or center by adding a colon(:) to the left, right, or on both side of the hypens within the header row.
 
 | Syntax        | Description   |Test Text |
@@ -43,11 +40,9 @@ You can align text in the columns to the left, right, or center by adding a colo
 | Paragraph     | Text          |And more  |
 
 # Instructions
----
 6.S191 software labs are designed to be compeleted at your own pace. At the end of each of the labs, there will be intructions on how you can submit your notebook for grade.Additionally, if you would like to submit your lab as part of the 6.S191 lab competitions, instructions regrading what information must be submitted must be also provided at the end of each lab.
 
 # License
-***
 All code in this repository is copyright 2022 [MIT 6.S191 Introduction to Deep Learnig](http://introtodeeplearning.com/). All Rights Reserved.
 Licensed under the MIT License. You may not use this file except in complianse with the License. Use and/or modificationof this code outside of 6.S191 must reference:
 
