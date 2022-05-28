@@ -28,3 +28,12 @@ $f_1(w)=\frac{\sigma^{2}}{2\pi},\omega\in[-\pi,\pi]$
 library(tidyverse)<br>
 library(mdsr)<br>
 SAT_2010 %>% gglot(aes(write,...density...)) + geom_histogram() + geom_density() + theme_minimal + labs(title = "SAT Writing Scores")
+
+# Table with alignment 
+---
+You can align text in the columns to the left, right, or center by adding a colon(:) to the left, right, or on both side of the hypens within the header row.
+
+| Syntax        | Description   |Test Text |
+|:-------------:|:-------------:|:--------:|
+| Header        | Title         |Here' this|
+| Paragraph     | Text          |And more  |
